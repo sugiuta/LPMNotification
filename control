@@ -1,0 +1,11 @@
+Package: com.sugiuta.lpmnotification
+Name: LPMNotification
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.lpmnotification
+Description: Remove LowPower Alert for iOS16.
+Maintainer: sugiuta
+Author: sugiuta
+Section: Tweaks
+Depends: mobilesubstrate
+Icon: https://sugiuta.github.io/repo/images/icons/LPMNotification.png
